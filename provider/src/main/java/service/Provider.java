@@ -1,4 +1,4 @@
-package servicer;
+package service;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
